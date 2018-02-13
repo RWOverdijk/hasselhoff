@@ -12,6 +12,8 @@ Inspired by [this awesome tool](https://github.com/neonichu/hasselhoff) rewritte
 
 Just run `hasselhoff`.
 
+![Can't beat the hoff](img/hoff.jpeg)
+
 ## Support
 
 Linux, Windows and Mac OS.
