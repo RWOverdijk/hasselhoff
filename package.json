@@ -1,0 +1,15 @@
+{
+  "name": "hasselhoff",
+  "version": "1.0.0",
+  "description": "Saves you the hassle of setting a Hoff desktop picture manually.",
+  "main": "index.js",
+  "repository": "git@github.com:RWOverdijk/hasselhoff.git",
+  "author": "RWOverdijk <r.w.overdijk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "wallpaper": "^2.6.0"
+  },
+  "bin": {
+    "hasselhoff": "./index.js"
+  }
+}
