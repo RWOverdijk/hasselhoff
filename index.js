@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const wallpaper = require('wallpaper');
 const fs = require('fs');
 const path = require('path');
